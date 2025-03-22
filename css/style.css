@@ -1,0 +1,137 @@
+
+
+.header{
+	background-color: gray;
+	padding: 20px;
+}
+.header a{
+	gap: 30px;
+	color: orangered;
+	text-decoration: none;
+}
+.header a:hover{
+	color: yellow;
+}
+section{
+	background-color: darkblue;
+	min-height: 100vh;
+
+}
+.main h1{
+	font-family: cursive;
+	color: yellow;
+	padding-left: 40px;
+}
+.entry{
+	position: relative;
+}
+.project h1{
+	text-align: center;
+}
+
+.entry img{
+	background-repeat: no-repeat;
+	
+	background-attachment: cover;
+	border-radius: 10px;
+	align-items: center;
+	object-fit: cover;
+	margin-left: 100px;
+margin-top: 30px;
+	
+}
+.about{
+	text-align: center;
+	color: yellow;
+}
+
+.main p{
+	font-size: 30px;
+font-family: cursive;
+
+padding-top: 30px;
+padding-left: 30px;
+
+color: orangered;
+}
+button{
+	padding: 10px;
+	margin-left: 60px;
+	color: blue;
+	border-radius: 5px;
+}
+button:hover{
+	background-color: orange;
+}
+form{
+	text-align: center;
+}
+
+
+
+footer{
+	text-align: center;
+}
+.contact{
+	text-align: center;
+	color: yellow;
+}
+article p{
+	text-align: center;
+	color: yellow;
+}
+audio{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+ul li{
+	align-items: center;
+	justify-content: center;
+	color: orangered;
+}
+#about p{
+	text-align: center;
+	color: orangered;
+}
+label{
+	color: red;
+}
+a{
+	color: orangered;
+}
+ol li{
+	color: green;
+}
+table,th,td{
+	border: 2px solid orange;
+	color: blue;
+	align-items: center;
+	text-align: center;
+}
+#about, a{
+	text-align: center;
+	font-size: 20px;
+	color: skyblue;
+}
+#about,a:hover{
+	color: orchid;
+}
+.color{
+	color: red;
+}
+.decor{
+background-color: white;
+	
+}
+.house{
+	
+}
+.box{
+	margin: 20px;
+	padding: 50px;
+	border: 3px solid cyan;
+	background-color: black;
+	color: white;
+}
